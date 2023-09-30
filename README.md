@@ -25,7 +25,7 @@
 
 Building the "QR Code Scanner" Android Application, in <a href="https://developer.android.com/studio">Android Studio</a>, using <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/language/index.html">Java</a> programming language and "Machine Learning" implementation, 
  using the <a href="https://developers.google.com/ml-kit/vision/barcode-scanning">"ML- Kit" - "Barcode Scanning"</a> Library, that Scans the Barcode and Converts It into a Link, which allows us to access the Desired <a href="https://github.com/chivumarius/QRCodeScanner">Website</a>.
-##
+
  
 
 <br />
@@ -34,7 +34,7 @@ Building the "QR Code Scanner" Android Application, in <a href="https://develope
 
 <!-- ABOUT THE PROJECT -->
 ## Project Screenshots
-
+<br />
 
 <div align="center">  
   <img src="https://i.imgur.com/EmvWYin.jpg" width="200"> 
@@ -48,4 +48,4 @@ Building the "QR Code Scanner" Android Application, in <a href="https://develope
   <img src="https://i.imgur.com/juyq8Lz.jpg" width="200"> 
   <img src="https://i.imgur.com/m7mKmCT.jpg" width="200"> 
 </div>
-##
+
